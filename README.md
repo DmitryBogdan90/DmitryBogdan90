@@ -2,7 +2,7 @@
 
 ### Connect with me:
 - [LinkedIn](https://by.linkedin.com/in/nxtspc)
-- [Telegram](t.me/nxtspc)
+- [Telegram](https://t.me/nxtspc)
 
 ### Languages and Tools:
 - JavaScript
