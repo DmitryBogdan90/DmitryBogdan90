@@ -1,8 +1,8 @@
 ### Hi there, I'm Dmitry 👋
 
 ### Connect with me:
-[LinkedIn](https://by.linkedin.com/in/nxtspc)
-[Telegram](t.me/nxtspc)
+- [LinkedIn](https://by.linkedin.com/in/nxtspc)
+- [Telegram](t.me/nxtspc)
 
 ### Languages and Tools:
 - JavaScript
